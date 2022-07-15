@@ -1,4 +1,4 @@
-# Workshop Name
+# Data Bytes - Speeding Up Your Python Code demonstration
 [description]
 
 
