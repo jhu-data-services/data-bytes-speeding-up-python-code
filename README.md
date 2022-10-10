@@ -16,13 +16,9 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. [See
 ```
 
 ## Description of Files
-- Data: This folder contains raw data files to be used during hands-on activities in the workshop
-- In-ClassScripts: This folder contains code files you will need for the workshop:
-    - [file1]
-    - [file2]
-    - [file3]
+- `db-python-speedup.ipynb`: Jupyter notebook containing the code and slides from the session. 
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
-- Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
+- Resources: 
 
 ## Post-Class Survey
 If you have taken the live webinar for this class, please take this survey: [Data Bytes Survey](https://bit.ly/data-bytes-survey)
